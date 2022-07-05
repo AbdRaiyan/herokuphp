@@ -5,6 +5,7 @@
 <head>
     <!-- fix: Lack of meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A description? woah">
 </head>
 <body>
     <!-- fix: lack of title -->
